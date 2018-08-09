@@ -7,14 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Feature list
 
- * Admin Login & Logout
- * User Listing
- * User Searching
- * User Details
- * User Addition
- * User Update
- * User Deletion
-
+ * Login
 
 ## Angular 4 features used
 
@@ -23,19 +16,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  * Services
  * Components
  * Browser Animations
- * Forms Module
- * Reactive Forms
  * Directives
- * Pipes
- * Filters
- 
 
 ## Libraries Used
 
  * W3CSS front end design
  * Font Awesome Icons
- * Toster for success/error messages
-
 
 ## Development server
 
